@@ -1,0 +1,1 @@
+clang++ main.cpp gfx/buffer.cpp -o app $(pkg-config --cflags --libs sdl2)
