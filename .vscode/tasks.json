@@ -9,6 +9,7 @@
                 "-g",
                 "${workspaceFolder}/main.cpp",
                 "${workspaceFolder}/gfx/buffer.cpp",
+                "${workspaceFolder}/components/entity.cpp",
                 "-IC:/msys64/ucrt64/include",
                 "-IC:/msys64/ucrt64/include/SDL2",
                 "-LC:/msys64/ucrt64/lib",
